@@ -1,0 +1,96 @@
+.jumbotron-container {
+  text-align: center;
+  margin-top: 5px; /* Adjusted margin */
+}
+
+.jumbotron-header {
+  background: linear-gradient(90deg, #ff3131, #ff904e);
+  color: #ffffff;
+  padding: 10px; /* Adjusted padding */
+  border-radius: 8px;
+  display: inline-block;
+  text-align: left;
+  width: 60%; /* Adjusted width */
+}
+
+.container {
+  text-align: left;
+  margin: 0 auto;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 2px; /* Adjusted padding */
+}
+
+.right {
+  text-align: right;
+}
+
+.nowrap {
+  white-space: nowrap; /* Ensures content stays on one line */
+}
+
+.detail {
+  font-size: 1.6rem; /* Adjusted font size */
+  font-weight: lighter;
+}
+
+.detail2 {
+  font-size: 1.8rem; /* Adjusted font size */
+  font-weight: light;
+}
+
+.header1 {
+  font-size: 2.8rem; /* Adjusted font size */
+}
+
+.row-table {
+  text-align: center;
+  margin-top: 0; /* Remove top margin */
+}
+
+.row-table-header {
+  background: linear-gradient(90deg, #ff3131, #ff904e);
+  color: #ffffff;
+  padding: 10px; /* Adjusted padding */
+  border-radius: 8px;
+  display: inline-block;
+  text-align: left;
+  width: 60%; /* Adjusted width */
+}
+
+.row-table .container {
+  text-align: left;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.row-table table {
+  width: 100%;
+}
+
+.row-table td {
+  padding: 2px; /* Adjusted padding */
+}
+
+.row-table .right {
+  text-align: right;
+}
+
+.row-table .nowrap {
+  white-space: nowrap; /* Ensures content stays on one line */
+}
+
+.row-table .header1 {
+  font-size: 2.8rem; /* Adjusted font size */
+}
+
+.row-table .detail2 {
+  font-size: 1.8rem; /* Adjusted font size */
+  font-weight: light;
+}
